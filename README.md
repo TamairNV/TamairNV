@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TamairNV
-- 🌱 I’m currently learning ... Computer Science at Newcastle univercity
+- 🌱 I’m currently learning ... Computer Science at Newcastle university
 - 📫 How to reach me ... tvassib2@gmail.com
 - 😄 Pronouns: ... he/him
 
