@@ -1,0 +1,27 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
+      
+      - name: Push changes
+        run: |
+          git config --global user.name "TamariNV"
+          git config --global user.email "tvassib@gmail.com"
+          git add -A
+          git commit -m "Update snake game"
+          git push
