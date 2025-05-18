@@ -10,7 +10,9 @@
   </a>
   <a href="https://www.linkedin.com/in/tamer-vassib-552220279">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<a href="https://radioactiveant7.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io"/>
+</a>
 
 </p>
 
