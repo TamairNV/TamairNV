@@ -19,7 +19,7 @@
 ---
 
 ### 🔭 Currently Working On
-- University coursework and projects
+- Advanced Custome Data Structures
 - Personal coding projects
 - Improving my DSA skills
 
