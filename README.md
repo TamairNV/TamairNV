@@ -19,7 +19,7 @@
 ---
 
 ### 🔭 Currently Working On
-- Advanced Custome Data Structures
+- Advanced Custom Data Structures
 - Personal coding projects
 - Improving my DSA skills
 
