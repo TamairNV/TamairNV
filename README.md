@@ -13,6 +13,9 @@
 <a href="https://radioactiveant7.itch.io/">
     <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io"/>
 </a>
+<a href="https://paradoxgame.co.uk/">
+    <img src="https://img.shields.io/badge/Paradox-44a13a?style=for-the-badge&logo=yourlogo&logoColor=white" alt="My Website"/>
+</a>
 
 </p>
 
