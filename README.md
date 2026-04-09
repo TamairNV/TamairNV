@@ -24,11 +24,11 @@
 ### 🔭 Currently Working On
 - Advanced Custom Data Structures
 - Web apps
-- Improving my DSA skills
+- Bioinfomatics
 
 ### 🌱 Currently Learning                                                                                      
-- Web Development Technologies
-- Cyber Security
+- Bioinfomatics
+- Rust 🦀
 - Flask
 
 
