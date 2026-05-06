@@ -29,7 +29,7 @@
 ### 🌱 Currently Learning                                                                                      
 - Bioinfomatics
 - Rust 🦀
-- Flask
+- Angluar
 
 
 ---
