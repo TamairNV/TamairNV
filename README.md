@@ -22,14 +22,14 @@
 ---
 
 ### 🔭 Currently Working On
-- Advanced Custom Data Structures
+- Java
 - Web apps
-- Bioinfomatics
+- Unity
 
 ### 🌱 Currently Learning                                                                                      
-- Bioinfomatics
+- Hibernate
 - Rust 🦀
-- Angluar
+- Vue
 
 
 ---
