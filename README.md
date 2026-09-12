@@ -34,8 +34,7 @@
 
 ---
 
-<div align = center>
-  ![snake gif](https://github.com/TamairNV/TamairNV/blob/output/github-snake-dark.svg)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TamairNV/TamairNV/output/github-snake-dark.svg" alt="snake gif" />
 </div>
 
