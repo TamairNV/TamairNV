@@ -35,8 +35,6 @@
 ---
 
 <div align = center>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamairNV&layout=compact&theme=nightowl&bg_color=00000000&card_width=800&hide_border=true)
   ![snake gif](https://github.com/TamairNV/TamairNV/blob/output/github-snake-dark.svg)
 
 </div>
